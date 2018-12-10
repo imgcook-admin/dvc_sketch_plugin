@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <item>
+      <enclosure url="http://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/1544423092179.zip" sparkle:version="1.0.6" />
+    </item>
+  </channel>
+</rss>
