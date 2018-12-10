@@ -1,2 +1,122 @@
 # dvc_sketch_plugin
-sketch 插件
+
+You can use this plugin to export the metadata of the sketch file and then use it for web layout (absolute)
+
+# export data
+
+``` json
+{
+  "type": "Block",
+  "id": "Block-1",
+  "__VERSION__": "2.0",
+  "props": {
+    "style": {
+      "width": 702,
+      "height": 200
+    },
+    "attrs": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "children": [{
+    "__VERSION__": "2.0",
+    "props": {
+      "style": {
+        "width": 702,
+        "height": 200,
+        "backgroundColor": "rgba(255,255,255,1)",
+        "borderRadius": 12
+      },
+      "attrs": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "children": [],
+    "type": "Shape",
+    "id": "Shape-0"
+  }, {
+    "__VERSION__": "2.0",
+    "props": {
+      "style": {
+        "width": 174,
+        "height": 200
+      },
+      "attrs": {
+        "x": 13,
+        "y": 0,
+        "source": "http://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/FgxJZc5mQEWncoaunbI5kaf89crJ.png"
+      }
+    },
+    "children": [],
+    "type": "Image",
+    "id": "Image-1"
+  }, {
+    "__VERSION__": "2.0",
+    "props": {
+      "style": {
+        "width": 99,
+        "height": 24,
+        "fontFamily": "PingFangSC",
+        "fontSize": "30",
+        "color": "#FF5000",
+        "lineHeight": "24rem",
+        "fontWeight": 500
+      },
+      "attrs": {
+        "x": 314,
+        "y": 158,
+        "text": "666.00",
+        "fixed": false,
+        "lines": 1
+      }
+    },
+    "type": "Text",
+    "id": "Text-5"
+  }, {
+    "__VERSION__": "2.0",
+    "props": {
+      "style": {
+        "width": 20,
+        "height": 20,
+        "fontFamily": "PingFangSC",
+        "fontSize": "20",
+        "color": "#FF5000",
+        "lineHeight": "20rem",
+        "fontWeight": 500
+      },
+      "attrs": {
+        "x": 294,
+        "y": 162,
+        "text": "￥",
+        "fixed": false,
+        "lines": 1
+      }
+    },
+    "type": "Text",
+    "id": "Text-7"
+  }, {
+    "__VERSION__": "2.0",
+    "props": {
+      "style": {
+        "width": 164,
+        "height": 26,
+        "backgroundColor": "rgba(255,255,255,0.1)",
+        "borderWidth": "1",
+        "borderStyle": "solid",
+        "borderColor": "#FF5000",
+        "borderRadius": 4
+      },
+      "attrs": {
+        "x": 215,
+        "y": 56
+      }
+    },
+    "children": [],
+    "type": "Shape",
+    "id": "Shape-9"
+  }],
+  "artboardImg": "http://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/FmR0vOY7e5w_N5BQAE05HK5ulVmJ.png"
+}
+```
