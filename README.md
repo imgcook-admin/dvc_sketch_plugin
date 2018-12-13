@@ -2,7 +2,21 @@
 
 You can use this plugin to export the metadata of the sketch file and then use it for web layout (absolute)
 
-# export data
+### 
+
+<img width="535" alt="screen shot 1" src="https://img.alicdn.com/tfs/TB1tKrivIbpK1RjSZFyXXX_qFXa-1340-850.png">
+<img width="1291" alt="screen shot 2" src="https://img.alicdn.com/tfs/TB1dULkvFzqK1RjSZFoXXbfcXXa-1123-640.png">
+
+## Installation
+
+### From a release (simplest)
+
+* [Download](https://github.com/mathieudutour/sketch-primitive/releases/latest) the latest release of the plugin
+* Un-zip
+* Double-click on primitive.sketchplugin
+
+
+# export data example
 
 ``` json
 {
