@@ -12,6 +12,7 @@ It can help you quickly describe the design draft in code.
 ## Instructions
 
 Choose an artboard or group then click export data
+
 <img width="535" alt="screen shot 1" src="https://img.alicdn.com/tfs/TB1tKrivIbpK1RjSZFyXXX_qFXa-1340-850.png">
 
 # export data example
