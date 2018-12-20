@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <enclosure url="http://ai-sample.oss-cn-hangzhou.aliyuncs.com/sketch/1544423092179.zip" sparkle:version="1.0.6" />
+      <enclosure url="https://github.com/dvcdv/dvc_sketch_plugin/releases/download/v1.5.1/davinci_vip.sketchplugin.zip" sparkle:version="1.5.1"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/dvcdv/dvc_sketch_plugin/releases/download/v1.0.6/davinci_vip.sketchplugin.zip" sparkle:version="1.0.6"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/dvcdv/dvc_sketch_plugin/releases/download/v1.0.5/davinci_vip.sketchplugin.zip" sparkle:version="1.0.5"/>
     </item>
   </channel>
 </rss>
